@@ -2,8 +2,10 @@
 
 This is a tutorial on how to use git and github.com
 
-## Workflow
+## Git Workflow
 
 - Create a repository (git init) FIRST TIME ONLY
 - git add
 - git commit -m
+
+## GitHub Workflow
